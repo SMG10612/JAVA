@@ -1,3 +1,5 @@
+//202095047 송민규
+
 package chapter02;
 
 import java.util.Scanner;
